@@ -10,9 +10,9 @@
 - node-gyp
 ## 编译执行
 编译程序，在building.gyp中配置好编译选项。执行命令
-···
+```
 node-gyp rebuild
-···
+```
 ## 进度
 - 搭建环境
 - 使用js调用C++函数
